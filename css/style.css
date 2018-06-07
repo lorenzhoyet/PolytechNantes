@@ -1,0 +1,154 @@
+/* mise en page globale */
+
+*{ /* 'normalisation' des marges et padding pour simplifier le positionnement */
+  margin: 0;
+  padding: 0;
+}
+body
+{
+  min-width: 480px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  background : url('../images/fond.jpg');
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+/*
+body::before
+{
+  content:"";
+  display: block;
+  position: absolute;
+  height: 150px;
+  width: 100%;
+  background-color: blue;
+}*/
+
+#container
+{
+  position: relative;
+  width:980px;
+  margin: 0 auto;
+  background-color: rgba(0,0,0,0.4);
+}
+
+a
+{
+	text-decoration: none;
+}
+
+
+
+#logo
+{
+	width:100px;
+}
+
+#entete
+{
+  color: white;
+  height:150px;
+  
+}
+
+#entete a 
+{
+	font-size:1.3em;
+	color: black;
+}
+
+#entete ul>li
+{
+	border: solid white 1px;
+	background-color:white;
+}
+
+#entete a:hover
+{
+	color:red;
+}
+
+h1
+{
+	color:white;
+}
+
+li
+{
+   display: inline-block;
+}
+
+#connexion
+{
+	position : absolute;
+	top: 10px;
+	right:10px;
+}
+
+.drapeau
+{
+	height: 15px;
+}
+
+section
+{
+	margin : 10px;
+	text-align:center;
+	border : solid black 2px;
+	background-color:white;
+}
+
+section>table:hover
+{
+	background-color:rgba(135,206,250,0.5);
+}
+
+table
+{
+	border-top: solid grey 1px;
+	vertical-align:baseline;
+	width:100%;
+    border-collapse: separate;
+    border-spacing: 15px 10px;
+}
+
+td {
+   vertical-align:top;
+}
+
+.group
+{
+	width:20%;
+	text-align:left;
+}
+.equipe1
+{
+	width:10%;
+	text-align:right;
+}
+.drapeau1
+{
+	width:10%;
+	text-align:right;
+}
+.score
+{
+	width:20%;
+	text-align:center;
+}
+.drapeau2
+{
+	width:10%;
+	text-align:left;
+}
+.equipe2
+{
+	width:10%;
+	text-align:left;
+}
+.diffusion
+{
+	width:20%;
+	text-align:right;
+}
