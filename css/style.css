@@ -96,18 +96,22 @@ section
 	background-color:white;
 }
 
-section>table:hover
+section>article:hover
 {
 	background-color:rgba(135,206,250,0.5);
 }
 
-table
+article
 {
 	border-top: solid grey 1px;
-	vertical-align:baseline;
-	width:100%;
-    border-collapse: separate;
-    border-spacing: 15px 10px;
+}
+
+table
+{
+  width:100%;
+  vertical-align:baseline;
+  border-collapse: separate;
+  border-spacing: 15px 10px;
 }
 
 td {
