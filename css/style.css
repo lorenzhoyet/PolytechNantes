@@ -12,7 +12,7 @@ body
   background-attachment:fixed;
   background-position: center;
   background-repeat: no-repeat;
-  
+
 }
 /*
 body::before
@@ -38,8 +38,6 @@ a
 	text-decoration: none;
 }
 
-
-
 #logo
 {
 	width:100px;
@@ -49,16 +47,16 @@ a
 {
   color: white;
   height:150px;
-  
+
 }
 
-#entete a 
+#entete a
 {
 	font-size:1.3em;
 	color: black;
 }
 
-#entete ul>li
+#entete ul>li, #affProfil a
 {
 	border: solid white 1px;
 	background-color:white;
@@ -66,7 +64,7 @@ a
 
 #entete a:hover
 {
-	color:red;
+	color:blue;
 }
 
 h1
@@ -79,7 +77,7 @@ li
    display: inline-block;
 }
 
-#connexion
+.connexion
 {
 	position : absolute;
 	top: 10px;
@@ -94,7 +92,6 @@ li
 section
 {
 	margin : 10px;
-	text-align:center;
 	border : solid black 2px;
 	background-color:white;
 }
@@ -116,6 +113,14 @@ table
 td {
    vertical-align:top;
 }
+
+label
+{
+	display: block;
+	width: 150px;
+	float: left;
+}
+
 
 .group
 {
