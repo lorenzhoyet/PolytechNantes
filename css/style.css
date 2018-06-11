@@ -130,6 +130,11 @@ label
 	float: left;
 }
 
+.auteurSortie{
+  font-size: 1.3em;
+  color:blue;
+}
+
 .pronoMatch {
   display: none;
 }

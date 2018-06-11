@@ -3,8 +3,8 @@
     <nav id="menuNav">
         <ul id="navSite">
             <li><a href="./index.php">Accueil</a></li>
-            <li><a href="./equipes.html">Équipe</a></li>
-            <li><a href="./sorties.html">Sorties Matches</a></li>
+            <li><a href="./equipes.php">Équipe</a></li>
+            <li><a href="./sorties.php">Sorties Matches</a></li>
         </ul>
     </nav>
     <?php include('afficheProfil.php')?>
