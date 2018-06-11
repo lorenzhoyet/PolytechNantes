@@ -29,7 +29,7 @@
   						<td class="diffusion">17h sur TF1 et BeIN </td>
   					</tbody>
     			</table>
-          <form action="connexionUser.php" method="post" class="pronoMatch">
+          <form action="addPronostic.php" method="post" class="pronoMatch">
             <p>
               <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
             </p>
@@ -51,9 +51,12 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
+
       </article>
 
 				<article class="match">
@@ -69,9 +72,11 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -86,9 +91,11 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -106,9 +113,11 @@
 						<td class="diffusion">12h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -123,9 +132,11 @@
 						<td class="diffusion">15h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -140,9 +151,11 @@
 						<td class="diffusion">18h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -157,9 +170,11 @@
 						<td class="diffusion">21h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -177,9 +192,11 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -194,9 +211,11 @@
 						<td class="diffusion">17h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -211,9 +230,11 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -231,9 +252,11 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -248,9 +271,11 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -265,9 +290,11 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -285,9 +312,11 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -302,9 +331,11 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -319,9 +350,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -339,9 +372,11 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -356,9 +391,11 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -373,9 +410,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -393,9 +432,11 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
         </article>
 
 				<article class="match">
@@ -410,9 +451,11 @@
 						<td class="diffusion">17h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -427,9 +470,11 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -447,9 +492,11 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -464,9 +511,11 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -481,7 +530,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-                <p class="pronoMatch">
+                <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
                   <input type="text" name="pseudo" id="pseudo" />
                 </p>
       </article>
@@ -501,9 +554,11 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -518,9 +573,11 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -535,9 +592,11 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -555,9 +614,11 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -572,9 +633,11 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -589,9 +652,11 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -609,9 +674,11 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -626,9 +693,11 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -643,9 +712,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -660,9 +731,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -680,9 +753,11 @@
 						<td class="diffusion">16h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -697,9 +772,11 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -714,9 +791,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -731,9 +810,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -751,9 +832,11 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -768,9 +851,11 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -785,9 +870,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -802,9 +889,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
@@ -822,9 +911,11 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -839,9 +930,11 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -856,9 +949,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 
 				<article class="match">
@@ -873,9 +968,11 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
-        <p class="pronoMatch">
-          <input type="text" name="pseudo" id="pseudo" />
-        </p>
+        <form action="addPronostic.php" method="post" class="pronoMatch">
+<p>
+  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+</p>
+</form>
       </article>
 			</section>
 
