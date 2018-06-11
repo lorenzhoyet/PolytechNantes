@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="./css/style.css" />
-        <link rel="stylesheet" href="./css/styleInscription.css" />
         <title>Prono CDM 2018</title>
     </head>
 

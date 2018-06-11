@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="./css/style.css" />
-        <link rel="stylesheet" href="./css/styleInscription.css" />
         <title>Prono CDM 2018</title>
     </head>
 
@@ -24,14 +23,16 @@
               // Vérification de la validité des informations
               if(isset($_POST['pronostic']))
               {
-                // Hachage du mot de passe
+
                 $pseudo =  $_SESSION['pseudo'];
+                $idMatch = $_POST['idMatch'];
                 $commentaire = $_POST['pronostic'];
 
                   // Insertion
-                  $req = $bdd->prepare('INSERT INTO pronostics(utilisateur, commentaire) VALUES(:pseudo, :prono)');
+                  $req = $bdd->prepare('INSERT INTO pronostics(utilisateur, idMatch, commentaire) VALUES(:pseudo, :idMatch, :prono)');
                   $req->execute(array(
                       'pseudo' => $pseudo,
+                      'idMatch' => $idMatch,
                       'prono' => $commentaire));
 
                   echo "Le pronostic est bien enregistré.";

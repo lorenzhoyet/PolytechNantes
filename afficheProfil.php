@@ -4,7 +4,7 @@ if (isset($_SESSION['id']) AND isset($_SESSION['pseudo']))
 {
   ?>
   <div id="affProfil" class="connexion">
-    <p>Bonjour <?php  echo $_SESSION['pseudo'];  ?> <br /></p>
+    <h2>Bonjour <?php  echo $_SESSION['pseudo'];  ?> <br /></h2>
 
   <a href="deconnexion.php">Deconnexion</a>
 </div>
