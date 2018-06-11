@@ -125,7 +125,11 @@ label
 	float: left;
 }
 
+.pronoMatch {
+  display: none;
+}
 
+/* Mise en page du tableau */
 .group
 {
 	width:20%;

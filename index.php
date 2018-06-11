@@ -5,6 +5,7 @@
         <link rel="icon" href="images/cdm.ico" />
         <link rel="stylesheet" href="./css/style.css" />
         <title>Prono CDM 2018</title>
+        <script src="js/jquery.js"></script>
         <script src="js/proposer.js" defer></script>
     </head>
 
@@ -18,17 +19,22 @@
 
 				<article class="match">
           <table>
-					<tbody>
-						<td class="group">Groupe A <br/> Moscou   </td>
-						<td class="equipe1"> Russie </td>
-						<td class="drapeau1"><img src="images/drapeaux/russie.jpg" class="drapeau"/></td>
-						<td class="score"> 0-0 </td>
-						<td class="drapeau2"><img src="images/drapeaux/arabie.png" class="drapeau"/></td>
-						<td class="equipe2"> Arabie Saoudite </td>
-						<td class="diffusion">17h sur TF1 et BeIN </td>
-					</tbody>
-				</table>
-      </article>
+  					<tbody>
+  						<td class="group">Groupe A <br/> Moscou   </td>
+  						<td class="equipe1"> Russie </td>
+  						<td class="drapeau1"><img src="images/drapeaux/russie.jpg" class="drapeau"/></td>
+  						<td class="score"> 0-0 </td>
+  						<td class="drapeau2"><img src="images/drapeaux/arabie.png" class="drapeau"/></td>
+  						<td class="equipe2"> Arabie Saoudite </td>
+  						<td class="diffusion">17h sur TF1 et BeIN </td>
+  					</tbody>
+    			</table>
+          <form action="connexionUser.php" method="post" class="pronoMatch">
+            <p>
+              <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+            </p>
+          </form>
+        </article>
 			</section>
 
 			<section class="matchDay">
@@ -45,6 +51,9 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -60,6 +69,9 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -74,6 +86,9 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -91,6 +106,9 @@
 						<td class="diffusion">12h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -105,6 +123,9 @@
 						<td class="diffusion">15h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -119,6 +140,9 @@
 						<td class="diffusion">18h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -133,6 +157,9 @@
 						<td class="diffusion">21h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -150,6 +177,9 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -164,6 +194,9 @@
 						<td class="diffusion">17h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -178,6 +211,9 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -195,6 +231,9 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -209,6 +248,9 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -223,6 +265,9 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -239,7 +284,11 @@
 						<td class="equipe2">Japon</td>
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
-				</table></article>
+				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
+      </article>
 
 				<article class="match">
           <table>
@@ -253,6 +302,9 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -267,6 +319,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -284,6 +339,9 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -298,6 +356,9 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -312,6 +373,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -328,7 +392,11 @@
 						<td class="equipe2">Australie</td>
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
-				</table></article>
+				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
+        </article>
 
 				<article class="match">
           <table>
@@ -342,6 +410,9 @@
 						<td class="diffusion">17h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -356,6 +427,9 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -373,6 +447,9 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -386,7 +463,11 @@
 						<td class="equipe2">Islande</td>
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
-				</table></article>
+				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
+      </article>
 
 				<article class="match">
           <table>
@@ -400,6 +481,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+                <p class="pronoMatch">
+                  <input type="text" name="pseudo" id="pseudo" />
+                </p>
       </article>
 			</section>
 
@@ -417,6 +501,9 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -431,6 +518,9 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -445,6 +535,9 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -462,6 +555,9 @@
 						<td class="diffusion">14h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -476,6 +572,9 @@
 						<td class="diffusion">17h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -490,6 +589,9 @@
 						<td class="diffusion">20h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -507,6 +609,9 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -521,6 +626,9 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -535,6 +643,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -549,6 +660,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -566,6 +680,9 @@
 						<td class="diffusion">16h sur TF1 et BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -580,6 +697,9 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -594,6 +714,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -608,6 +731,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -625,6 +751,9 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -639,6 +768,9 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -653,6 +785,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -667,6 +802,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
@@ -684,6 +822,9 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -698,6 +839,9 @@
 						<td class="diffusion">16h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -712,6 +856,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 
 				<article class="match">
@@ -726,6 +873,9 @@
 						<td class="diffusion">20h sur BeIN</td>
 					</tbody>
 				</table>
+        <p class="pronoMatch">
+          <input type="text" name="pseudo" id="pseudo" />
+        </p>
       </article>
 			</section>
 
