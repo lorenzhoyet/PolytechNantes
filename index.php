@@ -31,8 +31,9 @@
     			</table>
           <form action="addPronostic.php" method="post" class="pronoMatch">
             <p>
-              <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
-            </p>
+              <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+            <input type="submit" value="Envoyer" /> <br />
+</p>
           </form>
         </article>
 			</section>
@@ -53,7 +54,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
 
@@ -74,7 +76,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -93,7 +96,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -115,7 +119,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -134,7 +139,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -153,7 +159,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -172,7 +179,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -194,7 +202,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -213,7 +222,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -232,7 +242,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -254,7 +265,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -273,7 +285,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -292,7 +305,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -314,7 +328,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -333,7 +348,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -352,7 +368,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -374,7 +391,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -393,7 +411,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -412,7 +431,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -434,7 +454,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
         </article>
@@ -453,7 +474,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -472,7 +494,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -494,7 +517,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -513,7 +537,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -532,11 +557,10 @@
 				</table>
                 <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
-</form>
-                  <input type="text" name="pseudo" id="pseudo" />
-                </p>
+<form>
       </article>
 			</section>
 
@@ -556,7 +580,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -575,7 +600,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -594,7 +620,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -616,7 +643,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -635,7 +663,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -654,7 +683,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -676,7 +706,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -695,7 +726,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -714,7 +746,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -733,7 +766,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -755,7 +789,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -774,7 +809,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -793,7 +829,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -812,7 +849,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -834,7 +872,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -853,7 +892,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -872,7 +912,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -891,7 +932,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -913,7 +955,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -932,7 +975,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -951,7 +995,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
@@ -970,7 +1015,8 @@
 				</table>
         <form action="addPronostic.php" method="post" class="pronoMatch">
 <p>
-  <label for="pseudo">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" /><br />
+  <label for="pronostic">Votre pronostic : </label> <input type="text" name="pronostic" class="myProno" />
+<input type="submit" value="Envoyer" /> <br />
 </p>
 </form>
       </article>
